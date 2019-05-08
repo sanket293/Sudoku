@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "21556442946",
+    "firebase_url": "https://sudoku-solve-94a66.firebaseio.com",
+    "project_id": "sudoku-solve-94a66",
+    "storage_bucket": "sudoku-solve-94a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21556442946:android:c07b04226f19e8af",
+        "android_client_info": {
+          "package_name": "com.sanket.sudokusolve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21556442946-7nkks9pl45spn7ofijt4dlk7mdn8ioca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb7n-tDrBPICKwkQs1iOiYavxpDpn-fMc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

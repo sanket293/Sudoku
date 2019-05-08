@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="easylight">#5ad063</color>
+    <color name="easydark">#1B5E20</color>
+
+    <color name="meadiumlight">#4789f0</color>
+    <color name="meadiumdark">#0D47A1</color>
+
+    <color name="hardlight">#ff3b3b</color>
+    <color name="harddark">@android:color/holo_red_dark</color>
+
+
+</resources>
